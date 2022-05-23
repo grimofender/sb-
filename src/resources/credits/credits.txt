@@ -1,0 +1,19 @@
+
+Thank you to: 
+
+Friez King 								original creator
+Grimofender								Coder and graphics designer
+
+Resources Used:
+Pixelated Princess font.                LiviBreeAnne						    
+Christmas time is here                  Charlie Browns Christmas
+
+Tools Used:
+SDL2
+SDL2_ttf
+SDL2_mixer 
+Emscripten
+Aseprite
+CMake
+MSys2
+MinGW
